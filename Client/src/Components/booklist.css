@@ -1,0 +1,11 @@
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: fit-content;
+    background-color: greenyellow;
+}
+.item p{
+    width: 33%;
+}
